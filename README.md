@@ -1,3 +1,5 @@
+CodTech Intern ID : CITS6692
+
 # Folio
 
 Folio is a modern, full-stack blogging platform built for writers. It features a clean, reading-focused UI, role-based authoring tools, and robust security.
